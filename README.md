@@ -1,7 +1,5 @@
 # personal-works
 
-<br/>
-
 | Year | Type             | Title             |
 | ---- | ---------------- | ----------------- |
 | 2009 | Classical Poetry | 大雪赋            |
