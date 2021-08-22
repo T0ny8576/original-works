@@ -1,4 +1,4 @@
-# personal-works
+# original-works
 
 | Year | Type             | Title             |
 | ---- | ---------------- | ----------------- |
