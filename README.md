@@ -5,8 +5,6 @@
 | 2009 | Classical Poetry | 大雪赋            |
 | 2014 | Classical Poetry | 鸿雁              |
 | 2014 | Classical Poetry | 列缺              |
-| 2015 | Classical Prose  | 坚毅之魂 铸我开高 |
-| 2016 | Modern Essay     | 东南学子 军魂高昂 |
 | 2017 | Modern Poetry    | 东京梦华          |
 | 2017 | Modern Poetry    | 雨夜狂行          |
 | 2017 | Classical Prose  | 记钟山夜游        |
